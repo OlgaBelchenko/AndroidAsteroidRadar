@@ -66,7 +66,7 @@ class MainViewModel(application: Application) : ViewModel() {
         viewModelScope.launch {
             try {
                 asteroidRepository.refreshAsteroids()
-                getAllAsteroids()
+                getWeekAsteroids()
             } catch (e: Exception) {
                 Log.e(TAG, "Couldn't refresh data from repository: ${e.message}")
                 getAllAsteroids()
