@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next_week_asteroids">Показать астероиды за неделю</string>
+    <string name="today_asteroids">Показать астероиды за сегодня</string>
+    <string name="saved_asteroids">Показать сохранённые астероиды</string>
+    <string name="close_approach_data_title">Дата сближения</string>
+    <string name="absolute_magnitude_title">Абсолютная звёздная величина</string>
+    <string name="estimated_diameter_title">Расчётный диаметр</string>
+    <string name="relative_velocity_title">Относительная скорость</string>
+    <string name="distance_from_earth_title">Расстояние от земли</string>
+    <string name="astronomical_unit_format">%f а.е.</string>
+    <string name="km_unit_format">%f км</string>
+    <string name="km_s_unit_format">%f км/с</string>
+    <string name="image_of_the_day">Изображение дня</string>
+    <string name="astronomical_unit_explanation">Астрономическая единица (а.е.) - это единица измерения расстояний, примерно равная среднему расстоянию от Земли до Солнца и равная приблизительно 150 миллионам километров.</string>
+    <string name="astronomical_unit_explanation_button">Определение астрономической единицы</string>
+    <string name="potentially_hazardous_asteroid_image">Изображение потенциально опасный астероид</string>
+    <string name="not_hazardous_asteroid_image">Изображение не опасный астероид</string>
+    <string name="this_is_nasa_s_picture_of_day_showing_nothing_yet">Это изображение дня НАСА, пока ничего не отображается</string>
+    <string name="nasa_picture_of_day_content_description_format">Изображение дня НАСА: %s</string>
+</resources>
